@@ -22,7 +22,7 @@ export const CONGREGACAO = {
   // Imagem do mapa geral, dentro da pasta public/.
   // Ao trocar a imagem, aumente o número do "?v=" para o celular não
   // continuar mostrando a antiga guardada em cache.
-  mapaImagem: '/mapa-geral.svg?v=1',
+  mapaImagem: '/mapa-geral.jpg?v=1',
 };
 
 // Posição de cada território sobre a imagem do mapa, em PORCENTAGEM (0 a 100)

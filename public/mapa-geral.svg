@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
-  <rect width="1200" height="900" fill="#f1f5f9"/>
-  <g stroke="#e2e8f0" stroke-width="2">
-    <path d="M0 150H1200M0 300H1200M0 450H1200M0 600H1200M0 750H1200"/>
-    <path d="M200 0V900M400 0V900M600 0V900M800 0V900M1000 0V900"/>
-  </g>
-  <text x="600" y="430" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="48" font-weight="bold" fill="#334155">Mapa da congregação</text>
-  <text x="600" y="490" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#64748b">A imagem do mapa ainda não foi cadastrada</text>
-</svg>
